@@ -25,7 +25,7 @@
     "rxjs-compat": "^6.5.5",
     "slick-carousel": "^1.8.1",
     "use-onclickoutside": "^0.3.1",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
